@@ -1,5 +1,10 @@
 build/
+firmware/
 zmk/
 modules/
 tools/
 .west/
+zephyr/
+!zephyr/module.yml
+zmk-board-eyelash/
+zmk-nice-oled/
